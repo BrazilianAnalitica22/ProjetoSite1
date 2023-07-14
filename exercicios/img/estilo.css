@@ -1,0 +1,33 @@
+#imagem{
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+
+#paragrafo_1{
+    text-align: center;
+}
+
+#img{
+    text-align: center;
+    height: max-content;
+} 
+
+body{
+    color: gainsboro;
+} 
+
+h1{
+    color: black;
+}
+
+p{
+    color: black;
+}
+
+#tabela{
+    color: black;
+}
